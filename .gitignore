@@ -1,0 +1,13 @@
+# Build output
+build/
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CTestTestfile.cmake
+
+# Local editor/OS noise
+.vscode/
+.idea/
+.DS_Store
